@@ -23,5 +23,6 @@ F-Maitenance et evolutivite
 G-Accessibilite
   -support multilingue francais,anglais
   -Compatibilite navigateurs:fontionner sur les principaux navigateurs( chrome,firefox,safari)
-  
+
+  PAR:ANGEMICHELLE
 
