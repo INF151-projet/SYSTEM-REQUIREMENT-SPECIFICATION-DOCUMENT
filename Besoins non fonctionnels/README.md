@@ -22,3 +22,4 @@ Objectifs : Traçabilité + protection. Réalisation : RBAC strict, aucune donn�
 Objectifs : Respect des règles. Réalisation : Politique de confidentialité, masquage données, consentement, conservation limitée. Résumé final (1 phrase)
 Application rapide, sécurisée, fiable, compatible, scalable et conforme, avec des solutions
 techniques simples pour chaque exigence.
+AYISSI PAUL FREDY
