@@ -3,6 +3,6 @@ Un Livrable Attendu est un résultat tangible ou intangible qui est attendu à l
 * Un système de gestion de notes en ligne sécurisé et facile a utiliser ;
 *  Une plateforme qui permet aux étudiants de consulter leurs notes en temps réel ;
 *  Un outil qui permet aux enseignants de saisir et de  gérer de manière efficace;
-*  Un système de notification qui informe les étudiants et les enseignants des muses a jour ses notes ;
+*  Un système de notification qui informe les étudiants et les enseignants des mises à jour des notes ;
 *   Un système qui fournit des rapports et des statistiques sur les performances des étudiants ; . On peut également citer un manuel pour les enseignants et les étudiants, un plan de maintenance pour assurer la pérennité du système.
-   Concernant les solutions attendues , on a besoin d'un système de gestion de notes en ligne développé avec github ,un système de sécurité robuste pour protéger  les données des étudiants et des enseignants et dun interface intuitive et conviviale pour les étudiants ,les enseignants et les administrateurs.
+  Comme  solutions attendues , on a besoin d'un système de gestion de notes en ligne développé avec github ,un système de sécurité robuste pour protéger  les données des étudiants et des enseignants et dun interface intuitive et conviviale pour les étudiants ,les enseignants et les administrateurs.
