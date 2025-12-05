@@ -1,0 +1,81 @@
+
+
+	
+
+			
+
+Le but du système est de permettre de gérer des notes des gérer calculer les moyennes, de générer des bulletins et de fournir des rapports statistiques. Notre travail va donc s axer sur sept points :
+1. les différents besoins du système
+
+•	Gérer les informations sur les étudiants et les enseignants : car les notes seront établies à partir des relevés des notes des enseignants et des informations personnelles de chaque étudiant
+•	Assurer la sécurité et la confidentialité des données : afin de restreindre l’accès au réseau et assurer l’intégrité des notes
+-gérer les notes des étudiants : s’assurer que chaque note correspond réellement à l’unité d’enseignement assignée et que les notes des TP, TD, CC, SN sont prises en considération dans les proportions adéquates et règlementaires
+•	_ calculer les moyennes : s’assurer que chaque note est multipliée par le crédit correspondant à l’unité d’enseignement puis s assurer que les produits sont sommes puis diviser par le nombre de crédits total
+•	Générer des bulletins : ces bulletins vont contenir les appréciations des différentes notes par unité d’enseignement ainsi que la décision (l’admission ou l’échec) final de l’étudiant au de la capitalisation ou pas des différentes unités d’enseignements
+•	Fournir des rapports statistiques : comme le pourcentage de réussite ou d’échec de chaque unité d’enseignement ainsi que celui de l’année scolaire en général ou d’un semestre en particulier ...
+........
+2.	Faisabilité technique
+
++infrastructure le système pourra être héberge sur un serveur web avec une base de données MySQL ou pas
+
++logiciels le système pourra être développe en utilisant des technologies (développe) ou les langages de programmation utilisant des tableaux (java, c)
+
++sécurité le système devra inclure des mesures de sécurité pour protéger les données telles que l’authentification et l’autorisation
+
+3.	Faisabilité financière
+
++couts de développement à estimer
+
++couts de maintenance à estimer soit mensuellement ou annuellement
+
++bénéfices amélioration de la gestion de notes, gain de temps et d’argent
+
+4.	Faisabilité opérationnelle
+
++formation des utilisateurs les utilisateurs doivent connaitre quelle procédure à effectuer pour la tache qu’il voudrait effectuer ainsi que le minimum d’autorisation requises à cet effet
++support technique un guide d’emploi pourra être remis mis en place afin de pallier risques
+
+les problèmes techniques du système
+
+5.	plan de mise en œuvre
+
+
++PHASE 1 : développement du système ( durée de réalisation a estimer)
+
+dans cette phase ,il sera question pour nous de
+
+.segmenter les taches entre les différents développeurs
+
+.faire la conception de l’architecture système
+
+.développer les fonctionnalités de base
+
+.gérer les notes des étudiantes et établir leurs bulletins
+
+.fournir des rapports statistiques
+
+.intégrer des mesures de sécurité
+
+.effectuer des tests préliminaire
+
++PHASE 2 : test et déploiement du système ( durée d’exécution à estimer)
+
+. Effectuer des tests approfondis
+
+. Validation de l’effectivité des fonctionnalités par les utilisateurs clés
+
+. Déploiement du système sur le serveur
+
+. Configuration de la base de données et des paramètres de sécurité
+
+. Tests de performance et optimisation du système
+
++PHASE 3 : formation des utilisateurs et mise en place des supports techniques
+
+.formation des utilisateurs a l’utilisation du système
+
+.mise en place du support technique et du manuel d’utilisation
+
+.lancement officiel du système suivi des premiers jours d’utilisation
+
+REALISE PAR FOGUE TUENO SUZANE MIREILLE
